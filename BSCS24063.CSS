@@ -1,11 +1,10 @@
-.first-div
-{
-    width: 500px;
-    height: 500px;
+.first-div{
+    width: 100px;
+    height: 100px;
     background-color: bisque;
     border-width: 3px;
     border-color: aquamarine;
     border-radius: 20%;
-    margin: 10px;
-    padding : 5px;
+    margin: 40px;
+    padding : 3px;
 }
